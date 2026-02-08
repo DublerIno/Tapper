@@ -12,8 +12,13 @@ This simple project may seem like reinventing the wheel, but my main goal is to 
 Currently, I am working on my custom development board to test the following features:
 - STlink connection
 - USBC connection with CH340E for UART
-- Battery charging circuit for LiPo
+- Battery charging circuit for LiPo with MCP73831
 - OLED test circuit
 - STM32 pinouts
 
+### Current status
+- PCB done
+- Soldering done
+- Circuit testing successful
+- Now programming..
 ![Tapper Dev board v1](https://github.com/DublerIno/Tapper/blob/master/image.png)
