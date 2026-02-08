@@ -10,6 +10,10 @@ This simple project may seem like reinventing the wheel, but my main goal is to 
 
 ### STM32G030F6P6 Dev Board
 Currently, I am working on my custom development board to test the following features:
-- STlink connection, USBC, Battery charging circuit, OLED test circuit, and pinouts.
+- STlink connection
+- USBC connection with CH340E for UART
+- Battery charging circuit for LiPo
+- OLED test circuit
+- STM32 pinouts
 
-![pcb first dev board of tapper](https://github.com/DublerIno/Tapper/blob/master/image.png)
+![Tapper Dev board v1](https://github.com/DublerIno/Tapper/blob/master/image.png)
